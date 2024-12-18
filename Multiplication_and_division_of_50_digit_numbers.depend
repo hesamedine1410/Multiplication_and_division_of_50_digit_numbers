@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732267139 source:d:\firsts_c_projects\multiplication_and_division_of_50_digit_numbers\main.c
+	<stdio.h>
+	<string.h>
+
